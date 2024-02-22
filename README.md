@@ -3,5 +3,4 @@ download the node packages
 2. npm install styled-components
 3. npm i react-dom
 4. npm install firebase
-5. npm
-6. npm i react-router-dom
+5. npm i react-router-dom
